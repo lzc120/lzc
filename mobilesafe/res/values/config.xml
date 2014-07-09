@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="updataurl">http://192.168.1.247:8080/updata.xml</string>
+    <string name="addressdburl">http://192.168.1.247:8080/address.db</string>
+</resources>
